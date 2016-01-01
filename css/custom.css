@@ -208,12 +208,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: yellowgreen;
+    color: #FFFFFF;
 }
 
 .navbar-default .nav > li>a,
 .navbar-default .nav>li>a:focus {
-    color: yellowgreen;
+    color: #FFFFFF;
 }
 
 .navbar-default .nav > li>a:hover,
