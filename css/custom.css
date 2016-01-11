@@ -14,7 +14,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #80FF00;
+    color: #58FAD0;
 }
 
 p {
@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: #80FF00;
+    background-color: #58FAD0;
     padding: 70px 0;
     text-align: center;
 }
@@ -203,7 +203,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #80FF00;
+    color: #58FAD0;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -218,12 +218,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #80FF00;
+    color: #58FAD0;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #80FF00!important;
+    color: #58FAD0!important;
     background-color: transparent;
 }
 
@@ -281,7 +281,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #80FF00;
+        color: #58FAD0;
     }
 }
 
@@ -339,9 +339,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #80FF00;
+    border-color: #58FAD0;
     color: #fff;
-    background-color: #80FF00;
+    background-color: #58FAD0;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -382,12 +382,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #80FF00;
-    background-color: #80FF00;
+    border-color: #58FAD0;
+    background-color: #58FAD0;
 }
 
 .btn-primary .badge {
-    color: #80FF00;
+    color: #58FAD0;
     background-color: #fff;
 }
 
@@ -424,9 +424,9 @@ img::-moz-selection {
 }
 
 .text-primary {
-    color: #80FF00;
+    color: #58FAD0;
 }
 
 .bg-primary {
-    background-color: #80FF00;
+    background-color: #58FAD0;
 }
