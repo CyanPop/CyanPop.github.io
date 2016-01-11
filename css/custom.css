@@ -259,14 +259,14 @@ header .header-content .header-content-inner p {
     }
 
     .navbar-default.affix {
-        border-color: #088A29;
-        background-color: #088A29;
+        border-color: #81BEF7;
+        background-color: #81BEF7;
         box-shadow: 0px 7px 20px 0px rgba(0,0,0,0.1);
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: #fff;
+        color: #000;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
